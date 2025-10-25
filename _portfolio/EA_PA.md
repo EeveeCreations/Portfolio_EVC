@@ -1,3 +1,13 @@
+---
+layout: portfolio
+category: "Research / Machine Learning"
+image: "/img/4.jpg"
+permalink: /portfolio/IDL_2/
+title: "Tuning Genetic Algorithms and Evolutionary Strategies"
+description: ""
+
+---
+
 # Tuning Genetic Algorithms and Evolutionary Strategies  
 ### For the Low Autocorrelation Binary Sequences, N-Queens, and Katsuura Problems  
 

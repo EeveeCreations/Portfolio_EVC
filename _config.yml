@@ -8,3 +8,7 @@ url: ""
 github_username: Eevee Creations
 
 markdown: kramdown
+
+collections:
+  portfolio:
+    output: true

@@ -1,3 +1,12 @@
+---
+title: "Quantum Extreme Learning Machines (QELM) Framework"
+authors: "Eefje Karremans"
+date: May 2025
+layout: project
+image: /img/2.jpg
+category: "Machine Learning * Quantem AAlgorithms"
+---
+
 # Quantum Extreme Learning Machines (QELM) Framework
 
 ## 2 Background
