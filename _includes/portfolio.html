@@ -1,7 +1,7 @@
 <section class="no-padding" id="portfolio">
   <div class="container-fluid">
     <div class="row no-gutter">
-      {% for item in portfolio %}
+      {% for item in site.portfolio %}
       <div class="col-lg-4 col-sm-6">
         <a href="{{ item.url | relative_url }}" class="portfolio-box">
           <img src="{{ item.image | relative_url }}" class="img-responsive" alt="{{ item.title }}">

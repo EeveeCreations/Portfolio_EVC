@@ -1,3 +1,12 @@
+---
+layout: portfolio
+title: "Introduction to Deep Learning - A2 "
+category: "Research / Machine Learning"
+image: "/img/5.jpg"
+permalink: /portfolio/IDL_2/
+description: "Deeplearnign course assignment 2,  making use of latent variables CNN models and Genrative models."
+---
+
 # Introduction to Deep Learning - A2 (Group 87)
 **A. Stegenga (2267063), E.A. Karremans (4181794), P. Chang (4272455)**
 **December 2024**

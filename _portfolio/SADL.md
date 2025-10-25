@@ -3,8 +3,8 @@ title: "StarNet: Image Segmentation in Astronomy"
 authors: "Eefje Karremans, Chloé Tap, Barbaros Isik, Naël Belhaj Haddou"
 date: May 2025
 layout: project
-image: /assets/images/starnet/cover.jpg
-category: "Machine Learning • Astronomy"
+image: /img/1.jpg
+category: "Machine Learning / Astronomy"
 ---
 
 ## Abstract
