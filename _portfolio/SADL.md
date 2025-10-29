@@ -1,10 +1,11 @@
 ---
+layout: portfolio
 title: "StarNet: Image Segmentation in Astronomy"
 authors: "Eefje Karremans, Chloé Tap, Barbaros Isik, Naël Belhaj Haddou"
-date: May 2025
-layout: project
-image: /img/1.jpg
+image: "img/portfolio/SADL/vitb.jpg"
 category: "Machine Learning / Astronomy"
+description: "A responsive web design project."
+date: May 2025
 ---
 
 ## Abstract

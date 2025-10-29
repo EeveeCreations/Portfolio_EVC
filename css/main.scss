@@ -37,6 +37,77 @@
 $theme-primary: #98d575;
 $theme-dark: #222;
 
+header {
+  background-image: url("../img/header.gif")!important;
+}
+header::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* 50% dark */
+  z-index: 0;                     /* behind text */
+}
+.header_small{
+        color: white ;
+        max-height: 200px !important;
+        background-image: url("../img/header.gif");
+        background-size: cover;
+        border-bottom: 1px solid #ddd;
+        padding: 30px 15px;
+}
+.portfolio-box {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 66.66%; /* 3:2 aspect ratio; use 100% for square */
+}
+
+.portfolio-box img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* ensures image fills box without distortion */
+  transition: transform 0.4s ease;
+}.hover-image-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 220px;       /* keeps your vertical rectangle */
+  aspect-ratio: 3 / 4;    /* vertical rectangle */
+  border: 3px solid #8ce99a;
+  overflow: hidden;
+  margin: 0 auto;
+  border-radius: 6px;
+}
+
+.hover-image-wrapper img {
+  position: absolute;
+  bottom: -15%;
+  left: 0;
+  width: 100%;
+  height: 120%;           /* increase height so it fills frame when shifted */
+  object-fit: cover;      /* maintains cropping */
+  transition: opacity 0.5s ease;
+}
+
+.hover-image-wrapper .hover-image {
+  opacity: 0;             /* hidden by default */
+}
+
+.hover-image-wrapper:hover .hover-image {
+  opacity: 1;             /* fade in hover image */
+}
+
+.hover-image-wrapper:hover .main-image {
+  opacity: 0;             /* fade out main image */
+}
+
+.dropdown-menu li a:hover{
+  background-color: $theme-primary;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
