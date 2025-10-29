@@ -2,7 +2,7 @@
 title: "Generating DOOM Levels Using Wave Function Collapse"
 authors: "Ruzanna Baghdasaryan, Eefje Karremans, Kasper Notebomer, Stan Ruijters, Ryan Sleeuwaegen, Abygail Stegenga"
 layout: portfolio
-image: "../img/portfolio/GAI/doomgen_A3.png"
+image: "img/portfolio/GAI/doomgen_A3.png"
 description: "Procedural generation of DOOM levels using Wave Function Collapse (WFC)."
 category: "Game AI / Wave Function Collapse / Generative AI"
 date: October 29, 2025
