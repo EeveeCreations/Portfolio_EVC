@@ -2,7 +2,7 @@
 title: "Quantum Extreme Learning Machines (QELM) Framework"
 authors: "Eefje Karremans"
 layout: portfolio
-image: "../img/portfolio/QA/ClassmodRich.png"
+image: "img/portfolio/QA/ClassmodRich.png"
 description: "A responsive web design project."
 category: "Machine Learning / Quantum Algorithms"
 date: May 2025

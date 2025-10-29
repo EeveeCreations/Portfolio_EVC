@@ -2,7 +2,7 @@
 layout: portfolio
 title: "Introduction to Deep Learning - A2 "
 category: "Research / Machine Learning"
-image: "../img/portfolio/IDL/DL_Ass2_lat_spce.png"
+image: "img/portfolio/IDL/DL_Ass2_lat_spce.png"
 description: "Deeplearnign course assignment 2,  making use of latent variables CNN models and Genrative models."
 date: December 2025
 ---

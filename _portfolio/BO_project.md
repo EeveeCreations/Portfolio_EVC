@@ -2,7 +2,7 @@
 layout: portfolio
 title: "Exploring Multi-Scale and Multi-Nonzero Embedding Strategies in BAxUS"
 category: "Research / Machine Learning"
-image: "../img/portfolio/BO/BAXUS_f2.png"
+image: "img/portfolio/BO/BAXUS_f2.png"
 description: "A comparative study of embedding strategies—Multi-Scale, Random, and Multi-Nonzero—against the original BAxUS framework for high-dimensional Bayesian optimization."
 date: December 2024
 ---
