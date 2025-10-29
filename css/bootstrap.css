@@ -6563,4 +6563,14 @@ button.close {
     display: none !important;
   }
 }
+.navbar-nav .dropdown-menu {
+  border-radius: 0.5rem;
+  margin-top: 0.5rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.navbar-nav .dropdown-item:hover {
+  background-color: #f8f9fa;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */

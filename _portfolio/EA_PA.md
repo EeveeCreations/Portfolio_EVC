@@ -1,10 +1,10 @@
 ---
 layout: portfolio
 category: "Research / Machine Learning"
-image: "/img/4.jpg"
-permalink: /portfolio/IDL_2/
+image: "../img/portfolio/EA/EA_NQueens.png"
 title: "Tuning Genetic Algorithms and Evolutionary Strategies"
 description: ""
+date: December 2025
 
 ---
 
@@ -12,8 +12,8 @@ description: ""
 ### For the Low Autocorrelation Binary Sequences, N-Queens, and Katsuura Problems  
 
 **Authors:**  
-- Andrew Spiro (s4015355@vuw.leidenuniv.nl)  
-- Eefje Karremans (s4181794@vuw.leidenuniv.nl)  
+- Andrew Spiro 
+- Eefje Karremans   
 **Date:** December, 2024  
 
 ---
