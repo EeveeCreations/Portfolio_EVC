@@ -28,8 +28,9 @@ Experiments were conducted on five BBOB benchmark functions (F1, F8, F12, F15, F
 ---
 
 ## Results and Observations
-
-![Embedding Results Overview](/img/portfolio/BO/BAXUS_f2.png)
+<img src="/img/portfolio/BO/BAXUS_f2.png" 
+     alt="Embedding Results Overview"
+     style="width:100%; height:auto; object-fit:cover;">
 ### Dimension D = 2
 - **Multi-Nonzero Embedding** achieved performance close to **BAxUS**.
 - In some cases (F12), Multi-Nonzero slightly **outperformed BAxUS** due to increased variation across search directions.
