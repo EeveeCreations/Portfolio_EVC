@@ -108,7 +108,7 @@ A potential enhancement is to **resample and update the embedding matrices dynam
 ## Results and Observations
 <img src="/img/portfolio/BO/BAXUS_f2.png" 
      alt="Embedding Results Overview"
-     style="width:100%; height:auto; object-fit:cover;">s
+     style="width:100%; height:auto; object-fit:cover;">
 *Figure 1: Comparison of embedding strategies across BBOB functions.*
 
 ---
