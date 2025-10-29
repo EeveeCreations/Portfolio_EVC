@@ -1,11 +1,11 @@
 # Site settings
-title: Portfolio Eevee Creations
+title: Portfolio EeveeCreations
 email: karremanseefje@outlook.com
 description: > 
-  This portfolio  is supposed to simply showcase the activities to do within my education and spare time
+  This portfolio is supposed to simply showcase the activities to do within my education and spare time
 baseurl: "" 
 url: "" 
-github_username: Eevee Creations
+github_username: EeveeCreations
 
 markdown: kramdown
 
