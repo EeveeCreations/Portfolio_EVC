@@ -5,7 +5,6 @@ image: "img/portfolio/EA/EA_NQueens.png"
 title: "Tuning Genetic Algorithms and Evolutionary Strategies"
 description: ""
 date: December 2025
-
 ---
 
 # Tuning Genetic Algorithms and Evolutionary Strategies  
