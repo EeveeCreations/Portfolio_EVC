@@ -4,8 +4,8 @@
       {% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
       {% for item in sorted_portfolio limit:6 %}
       <div class="col-lg-4 col-sm-6 portfolio-item">
-        <a href="{{ item.url | relative_url }}"" class="portfolio-box">
-          <img src="{{ item.image}}" class="img-responsive" alt="{{ item.title }}">
+        <a href="{{ item.url | relative_url }}" class="portfolio-box">
+          <img src="{{ item.image | relative_url }}" class="img-responsive" alt="{{ item.title }}">
           <div class="portfolio-box-caption">
             <div class="portfolio-box-caption-content">
               <div class="project-category text-faded">{{ item.category }}</div>

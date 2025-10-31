@@ -5,6 +5,7 @@ category: "Research / Machine Learning"
 image: "img/portfolio/IDL/DL_Ass2_lat_spce.png"
 description: "Deeplearnign course assignment 2,  making use of latent variables CNN models and Genrative models."
 date: December 2025
+permalink: /portfolio/IDL_A2/
 ---
 
 # Introduction to Deep Learning - A2 (Group 87)

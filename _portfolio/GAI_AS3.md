@@ -6,6 +6,7 @@ image: "img/portfolio/GAI/doomgen_A3.png"
 description: "Procedural generation of DOOM levels using Wave Function Collapse (WFC)."
 category: "Game AI / Wave Function Collapse / Generative AI"
 date: October 29, 2025
+permalink: /portfolio/GAI_AS3/
 ---
 
 # Generating DOOM Levels Using Wave Function Collapse
