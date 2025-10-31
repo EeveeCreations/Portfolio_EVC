@@ -1,7 +1,7 @@
 ---
+layout: portfolio
 title: "Adaptive Minecraft Observatory Using GDPC"
 authors: "Eefje Karremans"
-layout: portfolio
 image: "img/portfolio/GAI/heightmap_A1.jpeg"
 description: "Procedural generation of an adaptable cartoon-style observatory in Minecraft using GDPC."
 category: "Game AI / Procedural Content Generation"

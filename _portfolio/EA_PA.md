@@ -1,8 +1,8 @@
 ---
 layout: portfolio
+title: "Tuning Genetic Algorithms and Evolutionary Strategies"
 category: "Research / Machine Learning"
 image: "img/portfolio/EA/EA_NQueens.png"
-title: "Tuning Genetic Algorithms and Evolutionary Strategies"
 description: ""
 date: December 2025
 ---

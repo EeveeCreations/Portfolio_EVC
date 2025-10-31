@@ -3,8 +3,8 @@ title: Portfolio EeveeCreations
 email: karremanseefje@outlook.com
 description: > 
   This portfolio is supposed to simply showcase the activities to do within my education and spare time
-baseurl: "" 
-url: "" 
+baseurl: "/Portfolio_EVC"
+url: "https://eeveecreations.github.io"
 github_username: EeveeCreations
 
 markdown: kramdown
