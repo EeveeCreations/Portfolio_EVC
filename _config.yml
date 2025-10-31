@@ -12,4 +12,4 @@ markdown: kramdown
 collections:
   portfolio:
     output: true
-    permalink: /portfolio/:title/
+    permalink: /:collection/:title/
