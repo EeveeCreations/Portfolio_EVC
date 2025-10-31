@@ -6,6 +6,7 @@ image: "img/portfolio/SADL/vitb.jpg"
 category: "Machine Learning / Astronomy"
 description: "A responsive web design project."
 date: May 2025
+permalink: /portfolio/SADL/
 ---
 
 ## Abstract

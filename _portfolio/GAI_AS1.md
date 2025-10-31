@@ -6,6 +6,7 @@ image: "img/portfolio/GAI/heightmap_A1.jpeg"
 description: "Procedural generation of an adaptable cartoon-style observatory in Minecraft using GDPC."
 category: "Game AI / Procedural Content Generation"
 date: February 2025
+permalink: /portfolio/GAI_AS1/
 ---
 
 # Adaptive Minecraft Observatory Using GDPC

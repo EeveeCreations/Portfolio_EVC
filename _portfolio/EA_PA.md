@@ -5,6 +5,7 @@ category: "Research / Machine Learning"
 image: "img/portfolio/EA/EA_NQueens.png"
 description: ""
 date: December 2025
+permalink: /portfolio/EA_PA/
 ---
 
 # Tuning Genetic Algorithms and Evolutionary Strategies  

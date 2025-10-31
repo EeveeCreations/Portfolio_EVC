@@ -13,3 +13,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: portfolio

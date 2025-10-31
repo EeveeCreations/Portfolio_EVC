@@ -6,6 +6,7 @@ image: "img/portfolio/QA/ClassmodRich.png"
 description: "A responsive web design project."
 category: "Machine Learning / Quantum Algorithms"
 date: May 2025
+permalink: /portfolio/QA/
 ---
 
 # Quantum Extreme Learning Machines (QELM) Framework
